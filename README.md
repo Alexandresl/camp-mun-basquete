@@ -6,6 +6,16 @@ A motivação deste trabalho foi a construção de uma página para o campeonato
 
 Com a construção do site, o campeonato ganharia uma página moderna, responsiva e que permite o acesso fácil a todas as informações do campeonato.
 
+### Tecnologias
+
+O site foi construido com:
+
+* HTML
+* CSS
+* JavaScript
+* JQuery
+* Materialize
+
 ### Site criado pelo grupo 
 
 * Alexandre Lima
